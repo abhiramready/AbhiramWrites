@@ -3,6 +3,7 @@ Collection of  all  my Articles and Publications
 
 ## [Medium](https://medium.com/@abhiramreddy31) 
 
+### . [How GUVI innovates Skill development in Engineers](https://medium.com/@abhiram.reddy/guvi-df9154e3593c)
 ### . [Anthos on Google Cloud](https://www.linkedin.com/posts/abhiramreddyduggempudi_google-gcp-googlecloud-activity-6613328545395601408-frDm)
 ### . [AGORA 101](https://medium.com/fnplus/agora-101-4805256a25ff)
 ### . [Flutter Jam GDG Chennai](https://medium.com/fnplus/flutter-jam-gdgchennai-b36f8539c7fb)
