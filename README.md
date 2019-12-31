@@ -1,4 +1,4 @@
-# AbhiramWrites
+# Abhiram Writes
 Collection of  all  my Articles and Publications
 
 ## [Medium](https://medium.com/@abhiramreddy31) 
