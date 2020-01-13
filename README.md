@@ -1,8 +1,7 @@
 # Abhiram Writes
 Collection of  all  my Articles and Publications
 
-## [Medium](https://medium.com/@abhiramreddy31) 
-
+### . [Round Robin Scheduling Algorithm](https://iq.opengenus.org/round-robin-scheduling/)
 ### . [How GUVI innovates Skill development in Engineers](https://medium.com/@abhiram.reddy/guvi-df9154e3593c)
 ### . [Anthos on Google Cloud](https://www.linkedin.com/posts/abhiramreddyduggempudi_google-gcp-googlecloud-activity-6613328545395601408-frDm)
 ### . [AGORA 101](https://medium.com/fnplus/agora-101-4805256a25ff)
