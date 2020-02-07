@@ -1,6 +1,7 @@
 # Abhiram Writes
 Collection of  all  my Articles and Publications
 
+### . [Find minimum number of deletions to make a string palindrome](https://iq.opengenus.org/minimum-deletions-to-make-string-palindrome/)
 ### . [Round Robin Scheduling Algorithm](https://iq.opengenus.org/round-robin-scheduling/)
 ### . [How GUVI innovates Skill development in Engineers](https://medium.com/@abhiram.reddy/guvi-df9154e3593c)
 ### . [Anthos on Google Cloud](https://www.linkedin.com/posts/abhiramreddyduggempudi_google-gcp-googlecloud-activity-6613328545395601408-frDm)
