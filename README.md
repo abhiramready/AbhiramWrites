@@ -1,5 +1,5 @@
 # Abhiram Writes
-Collection of  all  my Articles and Publications
+Collection of my Writings.
 
 ### . [I Promise only in JavaScript! But Why?](https://iq.opengenus.org/promises-in-javascript/)
 ### . [Find minimum number of deletions to make a string palindrome](https://iq.opengenus.org/minimum-deletions-to-make-string-palindrome/)
