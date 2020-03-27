@@ -1,6 +1,8 @@
 # Abhiram Writes
 Collection of my Writings.
 
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FAbhiramReddyD%2FAbhiramWrites)
+
 ### . [I Promise only in JavaScript! But Why?](https://iq.opengenus.org/promises-in-javascript/)
 ### . [Find minimum number of deletions to make a string palindrome](https://iq.opengenus.org/minimum-deletions-to-make-string-palindrome/)
 ### . [Round Robin Scheduling Algorithm](https://iq.opengenus.org/round-robin-scheduling/)
