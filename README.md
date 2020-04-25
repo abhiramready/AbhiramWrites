@@ -1,9 +1,6 @@
 # #AbhiramWrites
-#### Collection of my Writings in various blogs and Publications
-
-I write at :
-
-
+### Collection of my Writings in various blogs and Publications
+***
 ### <li> [Callbacks in JavaScript](https://iq<li>opengenus<li>org/callbacks-in-javascript/)
 ### <li> [I Promise only in JavaScript! But Why?](https://iq<li>opengenus<li>org/promises-in-javascript/)
 ### <li> [Find minimum number of deletions to make a string palindrome](https://iq<li>opengenus<li>org/minimum-deletions-to-make-string-palindrome/)
@@ -15,3 +12,11 @@ I write at :
 ### <li> [Whatsapp Soon to Monetize](https://medium<li>com/@abhiramreddy31/whatsapp-soon-to-monetize-46760f362c4c)
 ### <li> [Huawei Kirin 980 7nm World's First](https://techknowspace<li>wordpress<li>com/2018/08/31/huawei-kirin-980-worlds-first-7nm-commercial-chipset-big-threat-to-snapdragon/)
 ### <li> [Coding in Xamarin ](https://techknowspace<li>wordpress<li>com/2018/09/03/code-your-app-in-xamarin-and-delpoy-in-iosandroid-and-windows/)
+
+***
+##  [OpenGenus](https://iq.opengenus.org/author/abhiram/)
+![open genus logo](/Images/opengenus.PNG)
+## [TechKnowSpace](https://techknowspace.wordpress.com/author/abhiramreddy31/)
+![techknowspace logo](/Images/techknowspace.PNG)
+## [Medium](https://medium.com/@abhiram.reddy)
+![medium logo](https://github.com/AbhiramReddyD/AbhiramWrites/blob/master/Images/medium.jpeg)
