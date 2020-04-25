@@ -14,9 +14,6 @@
 ### <li> [Coding in Xamarin ](https://techknowspace<li>wordpress<li>com/2018/09/03/code-your-app-in-xamarin-and-delpoy-in-iosandroid-and-windows/)
 
 ***
-##  [OpenGenus](https://iq.opengenus.org/author/abhiram/)
-![open genus logo](/Images/opengenus.PNG)
-## [TechKnowSpace](https://techknowspace.wordpress.com/author/abhiramreddy31/)
-![techknowspace logo](/Images/techknowspace.PNG)
-## [Medium](https://medium.com/@abhiram.reddy)
-![medium logo](https://github.com/AbhiramReddyD/AbhiramWrites/blob/master/Images/medium.jpeg)
+## [![open genus logo](/Images/opengenus.PNG)](https://iq.opengenus.org/author/abhiram/)
+## [![techknowspace logo](/Images/techknowspace.PNG)](https://techknowspace.wordpress.com/author/abhiramreddy31/)
+## [![medium logo](https://github.com/AbhiramReddyD/AbhiramWrites/blob/master/Images/medium.jpeg)](https://medium.com/@abhiram.reddy)
