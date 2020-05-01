@@ -1,5 +1,6 @@
 # #AbhiramWrites
 ### Collection of my Writings in various blogs and Publications
+Have a look at my blog [here](https://abhiramreddyd.github.io/blog/)
 ***
 ### <li> [Callbacks in JavaScript](https://iq.opengenus.org/callbacks-in-javascript/)
 ### <li> [I Promise only in JavaScript! But Why?](https://iq.opengenus.org/promises-in-javascript/)
