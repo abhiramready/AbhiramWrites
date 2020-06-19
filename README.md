@@ -2,6 +2,9 @@
 ### Collection of my Writings in various blogs and Publications
 Have a look at my blog [here](https://abhiramreddyd.github.io/blog/)
 ***
+### <li> [First Unique Character in a String](https://iq.opengenus.org/first-unique-character-in-string/)
+### <li> [Templates in C++](https://iq.opengenus.org/template-class-in-cpp/)
+### <li> [Structures in C++](https://iq.opengenus.org/structures-in-cpp/)
 ### <li> [Callbacks in JavaScript](https://iq.opengenus.org/callbacks-in-javascript/)
 ### <li> [I Promise only in JavaScript! But Why?](https://iq.opengenus.org/promises-in-javascript/)
 ### <li> [Find minimum number of deletions to make a string palindrome](https://iq.opengenus.org/minimum-deletions-to-make-string-palindrome/)
