@@ -1,6 +1,5 @@
 # #AbhiramWrites
 ### Collection of my Writings in various blogs and Publications
-Have a look at my blog [here](https://abhiramreddyd.github.io/blog/)
 ***
 <!-- BLOG-POST-LIST:START -->
 - [How to view GitHub Commits in 3D](https://matrixread.com/how-to-view-github-commits-in-3d/)
