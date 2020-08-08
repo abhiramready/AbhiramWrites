@@ -13,4 +13,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://techknowspace.wordpress.com/author/abhiramreddy31/feed/,https://iq.opengenus.org/author/abhiram/rss/,https://medium.com/feed/@abhiram.reddy,https://matrixread.com/author/abhiramreddy31/feed/"
-          max_post_coun: 100  
+          max_post_count: 100  
