@@ -2,6 +2,8 @@
 ### Collection of my Writings in various blogs and Publications
 ***
 <!-- BLOG-POST-LIST:START -->
+- [Why I prefer to use 10 or fewer WordPress Plugins](https://matrixread.com/why-i-prefer-10-or-fewer-wordpress-plugins/)
+- [Number of times characters of a string is present in another string](https://iq.opengenus.org/number-of-common-characters/)
 - [How to view GitHub Commits in 3D](https://matrixread.com/how-to-view-github-commits-in-3d/)
 - [Change Text Selection Color](https://matrixread.com/change-text-selection-color/)
 - [How to change the Address Bar Color](https://matrixread.com/how-to-change-the-address-bar-color/)
@@ -14,6 +16,7 @@
 - [Is your website mobile friendly, 3 ways to test, and its effect on Google Ranking](https://matrixread.com/is-your-website-mobile-friendly/)
 - [The Art of Automation – Billion Dollar ideas](https://matrixread.com/the-art-of-automation-billion-dollar-idea/)
 - [Learn Android App Development with Kotlin for free with Google Codelabs](https://matrixread.com/learn-android-app-development-with-kotlin-for-free/)
+- [How to add Automatic Dark Mode to any Website / WordPress with 1 line of code](https://matrixread.com/automatic-dark-mode/)
 - [First Unique Character in a String](https://iq.opengenus.org/first-unique-character-in-string/)
 - [Template Class in C++](https://iq.opengenus.org/template-class-in-cpp/)
 - [Structures in C++](https://iq.opengenus.org/structures-in-cpp/)
