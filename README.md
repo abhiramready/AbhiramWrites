@@ -42,14 +42,8 @@
 ***
 ## My Posts at :
 
-## Open Genus
+## [Open Genus](https://iq.opengenus.org/author/abhiram/)
 
-## [<img src="https://github.com/AbhiramReddyD/AbhiramWrites/blob/master/Images/opengenus.PNG" height="225" width="600">](https://iq.opengenus.org/author/abhiram/)
+## [TechKnowSpace](https://techknowspace.wordpress.com/author/abhiramreddy31/)
 
-## TechKnowSpace
-
-## [<img src="https://github.com/AbhiramReddyD/AbhiramWrites/blob/master/Images/techknowspace.PNG" height="100" width="675">](https://techknowspace.wordpress.com/author/abhiramreddy31/)
-
-## Medium
-
-## [<img src="https://github.com/AbhiramReddyD/AbhiramWrites/blob/master/Images/medium.jpeg" height="250" width="400">](https://medium.com/@abhiram.reddy)
+## [Medium](https://medium.com/@abhiram.reddy)
