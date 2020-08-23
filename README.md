@@ -2,6 +2,7 @@
 ### Collection of my Writings in various blogs and Publications
 ***
 <!-- BLOG-POST-LIST:START -->
+- [Program to Click a Button N times](https://matrixread.com/program-to-click-a-button-n-times/)
 - [Why I prefer to use 10 or fewer WordPress Plugins](https://matrixread.com/why-i-prefer-10-or-fewer-wordpress-plugins/)
 - [Number of times characters of a string is present in another string](https://iq.opengenus.org/number-of-common-characters/)
 - [How to view GitHub Commits in 3D](https://matrixread.com/how-to-view-github-commits-in-3d/)
@@ -24,19 +25,14 @@
 - [I Promise only in JavaScript! But Why?](https://iq.opengenus.org/promises-in-javascript/)
 - [Find minimum number of deletions to make a string palindrome](https://iq.opengenus.org/minimum-deletions-to-make-string-palindrome/)
 - [Round Robin Scheduling Algorithm](https://iq.opengenus.org/round-robin-scheduling/)
-- [How GUVI innovates Skill development in Engineers](https://medium.com/@abhiram.reddy/guvi-df9154e3593c?source=rss-749059a17694------2)
 - [How to Hacktoberfest? for Everyone](https://medium.com/@abhiram.reddy/how-to-hacktoberfest-for-everyone-7e15041d0e65?source=rss-749059a17694------2)
 - [AGORA 101](https://medium.com/fnplus/agora-101-4805256a25ff?source=rss-749059a17694------2)
-- [Bringing babies to a theatre, Seriously? the harm it does is unimaginable.](https://medium.com/@abhiram.reddy/bringing-babies-to-a-theatre-seriously-the-harm-it-does-is-unimaginable-9ad38f9d9b2e?source=rss-749059a17694------2)
 - [Flutter JAM #GDGChennai](https://medium.com/fnplus/flutter-jam-gdgchennai-b36f8539c7fb?source=rss-749059a17694------2)
-- [I want to Code and become a Good Programmer, where do I begin?](https://medium.com/@abhiram.reddy/i-want-to-code-and-become-a-good-programmer-where-do-i-begin-1e8cb84d41bd?source=rss-749059a17694------2)
 - [Use Google’s Primer to assist Your Career/Business Goals](https://techknowspace.wordpress.com/2019/02/05/use-googles-primer-to-assist-your-career-business-goals/)
-- [Binary Tree but Why??](https://medium.com/@abhiram.reddy/binary-tree-but-why-179aa14b709c?source=rss-749059a17694------2)
 - [::Inside::                                       ::TechKnowSpace::](https://techknowspace.wordpress.com/2019/01/01/inside-techknowspace/)
 - [Intel to launch GPU’s](https://techknowspace.wordpress.com/2018/12/26/intel-to-launch-gpus/)
 - [Project humming bird boost to google’s flutter](https://techknowspace.wordpress.com/2018/12/10/flutter/)
 - [No Don’t buy a new Phone Now…..](https://techknowspace.wordpress.com/2018/11/28/no-dont-buy-a-new-phone-now/)
-- [WhatsApp Soon To Monetize](https://medium.com/@abhiram.reddy/whatsapp-soon-to-monetize-46760f362c4c?source=rss-749059a17694------2)
 - [Hackers attack FB, Check if your’e on the list.](https://techknowspace.wordpress.com/2018/10/13/hackers-attack-fb-check-if-youre-on-the-list/)
 - [One Plus soon to launch an affordable Smart TV.](https://techknowspace.wordpress.com/2018/09/18/one-plus-working-on-an-affordable-smart-tv/)
 - [What is TensorFlow for Machine Learning](https://techknowspace.wordpress.com/2018/09/11/what-is-tensorflow-for-machine-learning/)
