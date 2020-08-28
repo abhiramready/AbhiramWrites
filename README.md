@@ -1,6 +1,5 @@
 # #AbhiramWrites
 ### Collection of my Writings in various blogs and Publications
-***
 <!-- BLOG-POST-LIST:START -->
 - [Program to Click a Button N times](https://matrixread.com/program-to-click-a-button-n-times/)
 - [Why I prefer to use 10 or fewer WordPress Plugins](https://matrixread.com/why-i-prefer-10-or-fewer-wordpress-plugins/)
@@ -40,7 +39,7 @@
 - [Code your App in Xamarin and Delpoy in Ios,Android and Windows..](https://techknowspace.wordpress.com/2018/09/03/code-your-app-in-xamarin-and-delpoy-in-iosandroid-and-windows/)
 <!-- BLOG-POST-LIST:END -->
 ***
-## My Posts at :
+## My Posts at
 
 ## [Matrixread](https://matrixread.com/author/abhiramreddy31/)
 
