@@ -1,10 +1,12 @@
 <h1 align="center">
 	📰#AbhiramWrites✍
 </h1>
+<p align="center">
+	I publish a blog post every Saturday on what I have learned and experimented over the week.
+</p>
 <h2 align="center">
 	✅New Posts Every Saturday🚀
 </h2>
-
 <!-- BLOG-POST-LIST:START -->
 - [How I made 5 Selenium Bots](https://matrixread.com/how-i-made-5-selenium-bots/)
 - [Program to Click a Button N times](https://matrixread.com/program-to-click-a-button-n-times/)
@@ -41,9 +43,9 @@
 ## My Posts at
 ## ✅[My Blog Matrixread.com](https://matrixread.com/author/abhiramreddy31/)
 
-## 👉[Open Genus](https://iq.opengenus.org/author/abhiram/)👉
+### 👉[Open Genus](https://iq.opengenus.org/author/abhiram/)
 
-## 👉[Medium](https://medium.com/@abhiram.reddy)
+### 👉[Medium](https://medium.com/@abhiram.reddy)
 
-## 👉[TechKnowSpace](https://techknowspace.wordpress.com/author/abhiramreddy31/)
+### 👉[TechKnowSpace](https://techknowspace.wordpress.com/author/abhiramreddy31/)
 
