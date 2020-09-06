@@ -1,9 +1,9 @@
 <h1 align="center">
 	📰#AbhiramWrites✍
 </h1>
-<p align="center">
+<h4 align="center">
 	I publish a blog post every Saturday on what I have learned and experimented over the week.
-</p>
+</h4>
 <h2 align="center">
 	✅New Posts Every Saturday🚀
 </h2>
@@ -51,7 +51,7 @@
 
 ***
 ## My Posts at
-## ✅[My Blog Matrixread.com](https://matrixread.com/author/abhiramreddy31/)
+### ✅ My blog [Matrixread.com](https://matrixread.com/author/abhiramreddy31/)
 
 ### 👉[Open Genus](https://iq.opengenus.org/author/abhiram/)
 
