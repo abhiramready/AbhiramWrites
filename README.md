@@ -1,12 +1,12 @@
 <h1 align="center">
 	📰#AbhiramWrites✍
 </h1>
-<h3 align="center">
-	I publish a Blog📜 Post every Saturday🚀 on what I have Learnt📚 and Experimented🔭 over the Week.
-</h3>
 <h2 align="center">
-	✅New Posts Every Saturday🚀
+	I create a Blog📜 Post every Saturday🚀 on what I have Learnt📚 and Experimented🔭 over the Week
 </h2>
+<h3 align="center">
+	✅New Posts Every Saturday🚀
+</h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [Collecting Fake Profiles on LinkedIn](https://matrixread.com/collecting-fake-profiles-on-linkedin/)
@@ -53,9 +53,9 @@
 ## My Posts at
 ### ✅ My blog [Matrixread.com](https://matrixread.com/author/abhiramreddy31/)
 
-### 👉[Open Genus](https://iq.opengenus.org/author/abhiram/)
+### 👉 [Open Genus](https://iq.opengenus.org/author/abhiram/)
 
-### 👉[Medium](https://medium.com/@abhiram.reddy)
+### 👉 [Medium](https://medium.com/@abhiram.reddy)
 
-### 👉[TechKnowSpace](https://techknowspace.wordpress.com/author/abhiramreddy31/)
+### 👉 [TechKnowSpace](https://techknowspace.wordpress.com/author/abhiramreddy31/)
 
