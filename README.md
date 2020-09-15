@@ -53,7 +53,7 @@
 ***
 ## My Work at
 
-### ✅ My blog [Matrixread.com](https://matrixread.com/author/abhiramreddy31/)
+### ✅ My blog [matrixread.com](https://matrixread.com/author/abhiramreddy31/)
 
 ### 👉 [Open Genus](https://iq.opengenus.org/author/abhiram/)
 
