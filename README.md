@@ -9,6 +9,9 @@
 </h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Queue program in C++ using Array and STL](https://matrixread.com/queue-program-in-c-using-array-and-stl/)
+- [Contains Duplicate LeetCode C++](https://matrixread.com/contains-duplicate-leetcode-c/)
+- [Stack Program in C++ using Array and STL](https://matrixread.com/stack-program-in-c-using-array-and-stl/)
 - [5 Android App Projects for Beginners](https://matrixread.com/5-android-app-projects-for-beginners/)
 - [I made a 5KB Flutter App](https://matrixread.com/i-made-a-5kb-flutter-app/)
 - [4 Best and Free Screen Recorder for PC](https://matrixread.com/4-best-and-free-screen-recorder-for-pc/)
