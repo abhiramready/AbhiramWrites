@@ -9,6 +9,7 @@
 </h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Squares of a Sorted Array LeetCode O(N)](https://matrixread.com/squares-of-a-sorted-array-leetcode-on/)
 - [Single Number in Array LeetCode C++](https://matrixread.com/single-number-in-array-leetcode-c/)
 - [Program to Validate Username](https://matrixread.com/program-to-validate-username/)
 - [Find Missing Number in Array LeetCode](https://matrixread.com/find-missing-number-in-array-leetcode/)
@@ -24,6 +25,7 @@
 - [How I made 5 Selenium Bots](https://matrixread.com/how-i-made-5-selenium-bots/)
 - [Program to Click a Button N times](https://matrixread.com/program-to-click-a-button-n-times/)
 - [Why I prefer to use 10 or fewer WordPress Plugins](https://matrixread.com/why-i-prefer-10-or-fewer-wordpress-plugins/)
+- [Number of times characters of a string is present in another string](https://iq.opengenus.org/number-of-common-characters/)
 - [How to view GitHub Commits in 3D](https://matrixread.com/how-to-view-github-commits-in-3d/)
 - [Change Text Selection Color](https://matrixread.com/change-text-selection-color/)
 - [How to change the Address Bar Color](https://matrixread.com/how-to-change-the-address-bar-color/)
@@ -37,6 +39,13 @@
 - [The Art of Automation – Billion Dollar ideas](https://matrixread.com/the-art-of-automation-billion-dollar-idea/)
 - [Learn Android App Development with Kotlin for free with Google Codelabs](https://matrixread.com/learn-android-app-development-with-kotlin-for-free/)
 - [How to add Automatic Dark Mode to any Website / WordPress with 1 line of code](https://matrixread.com/automatic-dark-mode/)
+- [First Unique Character in a String](https://iq.opengenus.org/first-unique-character-in-string/)
+- [Template Class in C++](https://iq.opengenus.org/template-class-in-cpp/)
+- [Structures in C++](https://iq.opengenus.org/structures-in-cpp/)
+- [Callbacks in JavaScript](https://iq.opengenus.org/callbacks-in-javascript/)
+- [I Promise only in JavaScript! But Why?](https://iq.opengenus.org/promises-in-javascript/)
+- [Find minimum number of deletions to make a string palindrome](https://iq.opengenus.org/minimum-deletions-to-make-string-palindrome/)
+- [Round Robin Scheduling Algorithm](https://iq.opengenus.org/round-robin-scheduling/)
 - [How to Hacktoberfest? for Everyone](https://medium.com/@abhiram.reddy/how-to-hacktoberfest-for-everyone-7e15041d0e65?source=rss-749059a17694------2)
 - [AGORA 101](https://medium.com/fnplus/agora-101-4805256a25ff?source=rss-749059a17694------2)
 - [Flutter JAM #GDGChennai](https://medium.com/fnplus/flutter-jam-gdgchennai-b36f8539c7fb?source=rss-749059a17694------2)
