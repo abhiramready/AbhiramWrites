@@ -9,6 +9,7 @@
 </h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Bubble Sort Algorithm](https://matrixread.com/bubble-sort-algorithm/)
 - [Template Functions in C++](https://matrixread.com/template-functions-in-c/)
 - [Two Sum LeetCode Optimized](https://matrixread.com/two-sum-leetcode-optimized/)
 - [Squares of a Sorted Array LeetCode O(N)](https://matrixread.com/squares-of-a-sorted-array-leetcode-on/)
