@@ -9,6 +9,7 @@
 </h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Count the Duplicates of Array O(N)](https://matrixread.com/count-the-duplicates-of-array-on/)
 - [Anagram in Strings](https://matrixread.com/anagram-in-strings/)
 - [Target Sum – Single Iteration O(N)](https://matrixread.com/target-sum-single-iteration/)
 - [Binary Search Algorithm](https://matrixread.com/binary-search-algorithm/)
