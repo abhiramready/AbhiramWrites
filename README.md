@@ -9,6 +9,7 @@
 </h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Balanced Parenthesis Program](https://matrixread.com/balanced-parenthesis-program/)
 - [How the bits/stdc++ .h works in C++](https://matrixread.com/how-the-bits-stdc-h-works-in-c/)
 - [Separate 0s and 1s – O(N) Single Iteration](https://matrixread.com/separate-0s-and-1s-on-single-iteration/)
 - [Perform Set Operations on Arrays](https://matrixread.com/perform-set-operations-on-arrays/)
