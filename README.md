@@ -9,6 +9,7 @@
 </h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Tree Traversals – Preorder, Inorder, Postorder](https://matrixread.com/tree-traversals-preorder-inorder-postorder/)
 - [Program to Evaluate Postfix Expression – LeetCode](https://matrixread.com/program-to-evaluate-postfix-expression-leetcode/)
 - [Balanced Parenthesis Program](https://matrixread.com/balanced-parenthesis-program/)
 - [How the bits/stdc++ .h works in C++](https://matrixread.com/how-the-bits-stdc-h-works-in-c/)
