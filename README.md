@@ -1,11 +1,9 @@
 <h1 align="center">
 	📰#AbhiramWrites✍
 </h1>
-<h2 align="center">
-	I create a Blog📜 Post every Saturday🛰 on what I have Learnt📚 and Experimented🔬 over the Week🔭
-</h2>
+
 <h3 align="center">
-	✅New Posts Every Saturday🚀
+I create a blog post Everyday🛰 on what I have Learnt📚 and Experimented🔬
 </h3>
 
 <!-- BLOG-POST-LIST:START -->
