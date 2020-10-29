@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-I create a blog post Everyday🛰 on what I have Learnt📚 and Experimented🔬
+I create a blog post Everyday🚀 on what I have Learnt📚 and Experimented👨‍🚀
 </h3>
 
 <!-- BLOG-POST-LIST:START -->
