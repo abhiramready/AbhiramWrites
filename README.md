@@ -7,6 +7,7 @@ I create a blog post Everyday🚀 on what I have Learnt📚 and Experimented👨
 </h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Even Odd Separation O(N) Single Iteration](https://matrixread.com/even-odd-separation-on-single-iteration/)
 - [Tree Traversals – Preorder, Inorder, Postorder](https://matrixread.com/tree-traversals-preorder-inorder-postorder/)
 - [Program to Evaluate Postfix Expression – LeetCode](https://matrixread.com/program-to-evaluate-postfix-expression-leetcode/)
 - [Balanced Parenthesis Program](https://matrixread.com/balanced-parenthesis-program/)
