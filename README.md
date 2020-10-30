@@ -2,9 +2,12 @@
 	📰#AbhiramWrites✍
 </h1>
 
-<h3 align="center">
-I create a blog post💖 whenever I Learn📚 and Experiment👨‍🚀 stuff.
-</h3>
+What? <strong>I create a blog post💖 whenever I Learn📚 and Experiment👨‍🚀 new stuff.</strong>
+
+Why? <strong>I love helping people, It makes me happy.🙂</strong>
+
+Where? <strong>Mostly at my blog🚀 <a href="matrixread.com">matrixread</a></strong>
+
 
 <!-- BLOG-POST-LIST:START -->
 - [Direct & Indirect Recursion](https://matrixread.com/direct-indirect-recursion/)
