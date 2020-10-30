@@ -8,6 +8,7 @@ Why? <strong>I love helping people, It makes me happy.🙂</strong>
 
 Where? <strong>Mostly at my blog🚀 <a href="matrixread.com">matrixread</a></strong>
 
+***
 
 <!-- BLOG-POST-LIST:START -->
 - [Direct & Indirect Recursion](https://matrixread.com/direct-indirect-recursion/)
@@ -84,7 +85,7 @@ Where? <strong>Mostly at my blog🚀 <a href="matrixread.com">matrixread</a></st
 <!-- BLOG-POST-LIST:END -->
 
 ***
-### View My Work at
+### Read my thoughts and ideas at
 
 ### ✅ My blog [matrixread.com](https://matrixread.com/author/abhiramreddy31/)
 
