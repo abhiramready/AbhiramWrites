@@ -2,7 +2,7 @@
 	📰#AbhiramWrites✍
 </h1>
 
-What? <strong>I create a blog post💖 whenever I Learn📚 and Experiment👨‍🚀 new stuff.</strong>
+What? <strong>I create a blog post💖 whenever I Learn📚 and Experiment👨‍🚀 with new stuff.</strong>
 
 Why? <strong>I love helping people, It makes me happy.🙂</strong>
 
