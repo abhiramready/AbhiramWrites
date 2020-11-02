@@ -11,6 +11,7 @@ Where? <strong>Mostly at my blog🚀 <a href="matrixread.com">matrixread</a></st
 ***
 
 <!-- BLOG-POST-LIST:START -->
+- [LQIP in the WEB](https://matrixread.com/lqip-in-the-web/)
 - [#30DaysofCode](https://matrixread.com/30daysofcode/)
 - [Direct & Indirect Recursion](https://matrixread.com/direct-indirect-recursion/)
 - [Even Odd Separation O(N) Single Iteration](https://matrixread.com/even-odd-separation-on-single-iteration/)
