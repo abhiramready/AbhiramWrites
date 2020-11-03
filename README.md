@@ -13,6 +13,8 @@ Where? <strong>Mostly at my blog🚀 <a href="matrixread.com">matrixread</a></st
 ***
 
 <!-- BLOG-POST-LIST:START -->
+- [Create Beautiful Buttons](https://matrixread.com/create-beautiful-buttons/)
+- [Create a Beautiful Table of Contents](https://matrixread.com/create-a-beautiful-table-of-contents/)
 - [LQIP in the WEB](https://matrixread.com/lqip-in-the-web/)
 - [#30DaysofCode](https://matrixread.com/30daysofcode/)
 - [Direct & Indirect Recursion](https://matrixread.com/direct-indirect-recursion/)
