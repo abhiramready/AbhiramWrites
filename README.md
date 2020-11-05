@@ -13,6 +13,7 @@ Where? <strong>Mostly at my blog🚀 <a href="matrixread.com">matrixread</a></st
 ***
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Style Images with CSS](https://matrixread.com/how-to-style-images-with-css/)
 - [Create Beautiful Buttons](https://matrixread.com/create-beautiful-buttons/)
 - [Create a Beautiful Table of Contents](https://matrixread.com/create-a-beautiful-table-of-contents/)
 - [LQIP in the WEB](https://matrixread.com/lqip-in-the-web/)
