@@ -2,11 +2,13 @@
 	📰#AbhiramWrites✍
 </h1>
 
-<strong>Current Streak🔥 : 33 Days 🥳</strong>
+<strong>Longest Streak🔥 : 33 Days 🥳</strong>
 
-What? <strong>I create a blog post💖 whenever I Learn📚 and Experiment👨‍🚀 with new stuff.</strong>
+What? <strong>I write a blog post💖 whenever I Learn📚 and Experiment👨‍🚀 with new stuff.</strong>
 
-Why? <strong>I love helping people, It makes me happy.🙂</strong>
+Why? I love helping people, It makes me happy 🙂
+
+Also keep track of what I'm learning and doing. TL;dr <strong>Documenting my Journey as a Programmer</strong>.
 
 Where? <strong>Mostly at my blog🚀 <a href="matrixread.com">matrixread</a></strong>
 
