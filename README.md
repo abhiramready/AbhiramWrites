@@ -4,7 +4,7 @@
 
 <strong>Longest Streak🔥 : 33 Days 🥳</strong>
 
-What? <strong>I write a blog post💖 whenever I Learn📚 and Experiment👨‍🚀 with new stuff.</strong>
+What? <strong>I write a blog post💖 whenever I Learn📚 and Experiment👨‍🚀 new stuff.</strong>
 
 Why? I love helping people, It makes me happy 🙂
 
