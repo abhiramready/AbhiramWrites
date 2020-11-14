@@ -15,6 +15,7 @@ Where? <strong>Mostly at my blog🚀 <a href="matrixread.com">matrixread</a></st
 ***
 
 <!-- BLOG-POST-LIST:START -->
+- [C program to check whether brackets are Balanced in an Equation](https://iq.opengenus.org/c-program-brackets-balanced-in-equation/)
 - [How to Style Images with CSS](https://matrixread.com/how-to-style-images-with-css/)
 - [Create Beautiful Buttons](https://matrixread.com/create-beautiful-buttons/)
 - [Create a Beautiful Table of Contents](https://matrixread.com/create-a-beautiful-table-of-contents/)
