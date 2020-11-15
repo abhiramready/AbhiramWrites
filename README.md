@@ -2,13 +2,13 @@
 
 #AbhiramWrites
 
-Highest Streak🔥 : 33 Days
+🔥 Highest Streak : 33 Days
 
 I started writing articles, primarily for my own reference, and document my learning and journey as a programmer. 
 
 If you find it useful, that’s cool.
 
-Where? <strong>Mostly at my blog🚀 <a href="matrixread.com">matrixread</a></strong>
+🚀 Where? Often at my blog I setup -[matrixread](matrixread.com)
 
 ***
 
