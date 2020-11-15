@@ -8,7 +8,7 @@ I started writing articles, primarily for my own reference, and document my lear
 
 If you find it useful, that’s cool.
 
-🚀 Where? Often at my blog I setup -[matrixread](matrixread.com)
+🚀 Where? Often at my blog I setup - [matrixread](matrixread.com)
 
 ***
 
@@ -64,7 +64,7 @@ If you find it useful, that’s cool.
 ***
 My profiles at
 
-- ✅ My blog [matrixread.com](https://matrixread.com/author/abhiramreddy31/)
+- ✅ [matrixread.com](https://matrixread.com/author/abhiramreddy31/)
 - 👉 [Open Genus](https://iq.opengenus.org/author/abhiram/)
 - 👉 [Medium](https://medium.com/@abhiram.reddy)
 - 👉 [TechKnowSpace](https://techknowspace.wordpress.com/author/abhiramreddy31/)
