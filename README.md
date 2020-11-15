@@ -1,14 +1,12 @@
-<h1 align="center">
-	📰#AbhiramWrites✍
-</h1>
+<img align="center" src="https://github.com/abhiramready/AbhiramWrites/blob/master/Images/%23AbhiramWrites.png"/>
 
-<strong>Longest Streak🔥 : 33 Days 🥳</strong>
+#AbhiramWrites
 
-What? <strong>I write a blog post💖 whenever I Learn📚 and Experiment👨‍🚀 new stuff.</strong>
+Highest Streak🔥 : 33 Days
 
-Why? I love helping people, It makes me happy 🙂
+I started writing articles, primarily for my own reference, and document my learning and journey as a programmer. 
 
-Also keep track of what I'm learning and doing. TL;dr <strong>Documenting my Journey as a Programmer</strong>.
+If you find it useful, that’s cool.
 
 Where? <strong>Mostly at my blog🚀 <a href="matrixread.com">matrixread</a></strong>
 
@@ -64,13 +62,10 @@ Where? <strong>Mostly at my blog🚀 <a href="matrixread.com">matrixread</a></st
 <!-- BLOG-POST-LIST:END -->
 
 ***
-### Read my thoughts and ideas at
+My profiles at
 
-### ✅ My blog [matrixread.com](https://matrixread.com/author/abhiramreddy31/)
-
-### 👉 [Open Genus](https://iq.opengenus.org/author/abhiram/)
-
-### 👉 [Medium](https://medium.com/@abhiram.reddy)
-
-### 👉 [TechKnowSpace](https://techknowspace.wordpress.com/author/abhiramreddy31/)
+- ✅ My blog [matrixread.com](https://matrixread.com/author/abhiramreddy31/)
+- 👉 [Open Genus](https://iq.opengenus.org/author/abhiram/)
+- 👉 [Medium](https://medium.com/@abhiram.reddy)
+- 👉 [TechKnowSpace](https://techknowspace.wordpress.com/author/abhiramreddy31/)
 
