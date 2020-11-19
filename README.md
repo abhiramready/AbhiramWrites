@@ -8,7 +8,7 @@ I started writing articles, primarily for my own reference, and document my lear
 
 If you find it useful, that’s cool.
 
-🚀 Where? Often at my blog I setup - [matrixread](matrixread.com)
+🚀 Where? Often at my blog I setup - [matrixread](https://matrixread.com/)
 
 ***
 
