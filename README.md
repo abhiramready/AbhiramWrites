@@ -13,6 +13,7 @@ If you find it useful, that’s cool.
 ***
 
 <!-- BLOG-POST-LIST:START -->
+- [#2: Free Frontend Cheat-Sheets](https://matrixread.com/2-free-frontend-cheat-sheets/)
 - [C program to check whether brackets are Balanced in an Equation](https://iq.opengenus.org/c-program-brackets-balanced-in-equation/)
 - [How to Style Images with CSS](https://matrixread.com/how-to-style-images-with-css/)
 - [Create Beautiful Buttons](https://matrixread.com/create-beautiful-buttons/)
@@ -37,7 +38,6 @@ If you find it useful, that’s cool.
 - [Maximum Occurring Character in a String](https://matrixread.com/maximum-occurring-character-in-a-string/)
 - [Sum of Numbers in a String](https://matrixread.com/sum-of-numbers-in-a-string/)
 - [Linear Search Algorithm](https://matrixread.com/linear-search-algorithm/)
-- [Bubble Sort Algorithm](https://matrixread.com/bubble-sort-algorithm/)
 - [Number of times characters of a string is present in another string](https://iq.opengenus.org/number-of-common-characters/)
 - [First Unique Character in a String](https://iq.opengenus.org/first-unique-character-in-string/)
 - [Template Class in C++](https://iq.opengenus.org/template-class-in-cpp/)
