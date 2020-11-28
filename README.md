@@ -13,6 +13,8 @@ If you find it useful, that’s cool.
 ***
 
 <!-- BLOG-POST-LIST:START -->
+- [Transpose a Matrix](https://matrixread.com/transpose-a-matrix/)
+- [Array of Structures – API Problem](https://matrixread.com/array-of-structures-api-problem/)
 - [#2: Free Frontend Cheat-Sheets](https://matrixread.com/2-free-frontend-cheat-sheets/)
 - [C program to check whether brackets are Balanced in an Equation](https://iq.opengenus.org/c-program-brackets-balanced-in-equation/)
 - [How to Style Images with CSS](https://matrixread.com/how-to-style-images-with-css/)
@@ -32,12 +34,11 @@ If you find it useful, that’s cool.
 - [Count the Duplicates of Array O(N)](https://matrixread.com/count-the-duplicates-of-array-on/)
 - [Anagram in Strings](https://matrixread.com/anagram-in-strings/)
 - [Target Sum – Single Iteration O(N)](https://matrixread.com/target-sum-single-iteration/)
+- [Reverse a String (word by word) in C](https://iq.opengenus.org/reverse-word-by-word-in-c/)
 - [Binary Search Algorithm](https://matrixread.com/binary-search-algorithm/)
 - [Reverse a Linked List](https://matrixread.com/reverse-a-linked-list/)
 - [Fibonacci Series – Iterative vs Recursive](https://matrixread.com/fibonacci-series-iterative-vs-recursive/)
 - [Maximum Occurring Character in a String](https://matrixread.com/maximum-occurring-character-in-a-string/)
-- [Sum of Numbers in a String](https://matrixread.com/sum-of-numbers-in-a-string/)
-- [Linear Search Algorithm](https://matrixread.com/linear-search-algorithm/)
 - [Number of times characters of a string is present in another string](https://iq.opengenus.org/number-of-common-characters/)
 - [First Unique Character in a String](https://iq.opengenus.org/first-unique-character-in-string/)
 - [Template Class in C++](https://iq.opengenus.org/template-class-in-cpp/)
