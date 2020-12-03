@@ -13,6 +13,7 @@ If you find it useful, that’s cool.
 ***
 
 <!-- BLOG-POST-LIST:START -->
+- [Majority Element in an Array – LeetCode](https://matrixread.com/majority-element-in-an-array/)
 - [Transpose a Matrix](https://matrixread.com/transpose-a-matrix/)
 - [Array of Structures – API Problem](https://matrixread.com/array-of-structures-api-problem/)
 - [#2: Free Frontend Cheat-Sheets](https://matrixread.com/2-free-frontend-cheat-sheets/)
@@ -38,7 +39,6 @@ If you find it useful, that’s cool.
 - [Binary Search Algorithm](https://matrixread.com/binary-search-algorithm/)
 - [Reverse a Linked List](https://matrixread.com/reverse-a-linked-list/)
 - [Fibonacci Series – Iterative vs Recursive](https://matrixread.com/fibonacci-series-iterative-vs-recursive/)
-- [Maximum Occurring Character in a String](https://matrixread.com/maximum-occurring-character-in-a-string/)
 - [Number of times characters of a string is present in another string](https://iq.opengenus.org/number-of-common-characters/)
 - [First Unique Character in a String](https://iq.opengenus.org/first-unique-character-in-string/)
 - [Template Class in C++](https://iq.opengenus.org/template-class-in-cpp/)
