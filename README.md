@@ -13,6 +13,8 @@ If you find it useful, that’s cool.
 ***
 
 <!-- BLOG-POST-LIST:START -->
+- [Styling Code Blocks in WordPress](https://matrixread.com/styling-code-blocks-in-wordpress/)
+- [#3: Interview Resources](https://matrixread.com/3-interview-resources/)
 - [Majority Element in an Array – LeetCode](https://matrixread.com/majority-element-in-an-array/)
 - [Sorting Algorithms in C++](https://matrixread.com/sorting-algorithmsin-in-c/)
 - [Transpose a Matrix](https://matrixread.com/transpose-a-matrix/)
@@ -37,8 +39,6 @@ If you find it useful, that’s cool.
 - [Anagram in Strings](https://matrixread.com/anagram-in-strings/)
 - [Target Sum – Single Iteration O(N)](https://matrixread.com/target-sum-single-iteration/)
 - [Reverse a String (word by word) in C](https://iq.opengenus.org/reverse-word-by-word-in-c/)
-- [Binary Search Algorithm](https://matrixread.com/binary-search-algorithm/)
-- [Reverse a Linked List](https://matrixread.com/reverse-a-linked-list/)
 - [Number of times characters of a string is present in another string](https://iq.opengenus.org/number-of-common-characters/)
 - [First Unique Character in a String](https://iq.opengenus.org/first-unique-character-in-string/)
 - [Template Class in C++](https://iq.opengenus.org/template-class-in-cpp/)
