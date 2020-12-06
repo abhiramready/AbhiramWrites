@@ -55,10 +55,13 @@
 <!-- BLOG-POST-LIST:END -->
 
 ***
-My profiles at
+My wrtings at
 
-* 📍 [matrixread.com](https://matrixread.com/author/abhiramreddy31/)
-* 📍 [Open Genus](https://iq.opengenus.org/author/abhiram/)
-* 📍 [Medium](https://medium.com/@abhiram.reddy)
-* 📍 [TechKnowSpace](https://techknowspace.wordpress.com/author/abhiramreddy31/)
+📍 [matrixread.com](https://matrixread.com/author/abhiramreddy31/)
+
+📍 [Open Genus](https://iq.opengenus.org/author/abhiram/)
+
+📍 [Medium](https://medium.com/@abhiram.reddy)
+
+📍 [TechKnowSpace](https://techknowspace.wordpress.com/author/abhiramreddy31/)
 
