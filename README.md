@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/abhiramready/AbhiramWrites/blob/master/Images/%23AbhiramWrites.png"/>
+<img align="center" src="https://github.com/abhiramready/AbhiramWrites/blob/master/Images/AbhiramWrites.png"/>
 
 - #AbhiramWrites
 - 🔥 Highest Streak : 33 Days
