@@ -1,7 +1,8 @@
 <img align="center" src="https://github.com/abhiramready/AbhiramWrites/blob/master/Images/AbhiramWrites.png"/>
 
-- #AbhiramWrites
-- 🔥 Highest Streak : 33 Days
+ \- #AbhiramWrites
+
+ \- 🔥 Highest Streak : 33 Days
 
 ***
 <!-- BLOG-POST-LIST:START -->
@@ -55,7 +56,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ***
-My wrtings at
+My writings at
 
 📍 [matrixread.com](https://matrixread.com/author/abhiramreddy31/)
 
