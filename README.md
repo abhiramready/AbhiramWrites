@@ -2,8 +2,6 @@
 
 #### 🔥 Highest Streak : 33 Days
 
-<br>
-
 ### 🚀Highlights
 
 - [#30DaysofCode](https://matrixread.com/30daysofcode/)
@@ -12,8 +10,6 @@
 - [Round Robin Scheduling Algorithm](https://iq.opengenus.org/round-robin-scheduling/)
 - [Collecting Fake Profiles on LinkedIn](https://matrixread.com/collecting-fake-profiles-on-linkedin/)
 - [I Promise only in JavaScript! But Why?](https://iq.opengenus.org/promises-in-javascript/)
-
-<br>
 
 ### 👨‍🚀 My writings at
 
