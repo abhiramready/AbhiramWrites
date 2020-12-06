@@ -1,17 +1,9 @@
 <img align="center" src="https://github.com/abhiramready/AbhiramWrites/blob/master/Images/%23AbhiramWrites.png"/>
 
-#AbhiramWrites
-
-🔥 Highest Streak : 33 Days
-
-I started writing articles, primarily for my own reference, and document my learning and journey as a programmer. 
-
-If you find it useful, that’s cool.
-
-🚀 Where? Often at my blog I setup - [matrixread](https://matrixread.com/)
+- #AbhiramWrites
+- 🔥 Highest Streak : 33 Days
 
 ***
-
 <!-- BLOG-POST-LIST:START -->
 - [Styling Code Blocks in WordPress](https://matrixread.com/styling-code-blocks-in-wordpress/)
 - [#3: Interview Resources](https://matrixread.com/3-interview-resources/)
@@ -65,11 +57,8 @@ If you find it useful, that’s cool.
 ***
 My profiles at
 
-📍 [matrixread.com](https://matrixread.com/author/abhiramreddy31/)
-
-📍 [Open Genus](https://iq.opengenus.org/author/abhiram/)
-
-📍 [Medium](https://medium.com/@abhiram.reddy)
-
-📍 [TechKnowSpace](https://techknowspace.wordpress.com/author/abhiramreddy31/)
+* 📍 [matrixread.com](https://matrixread.com/author/abhiramreddy31/)
+* 📍 [Open Genus](https://iq.opengenus.org/author/abhiram/)
+* 📍 [Medium](https://medium.com/@abhiram.reddy)
+* 📍 [TechKnowSpace](https://techknowspace.wordpress.com/author/abhiramreddy31/)
 
