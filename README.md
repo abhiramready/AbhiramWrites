@@ -16,4 +16,5 @@
 📍 [Matrixread](https://matrixread.com/author/abhiramreddy31/)
 📍 [ Open Genus](https://iq.opengenus.org/author/abhiram/)
 📍 [ Medium](https://abhiram-ready.medium.com/)
+📍 [ Tech Know Space](https://techknowspace.wordpress.com/author/abhiramreddy31/)
 ***
