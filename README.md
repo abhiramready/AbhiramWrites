@@ -11,12 +11,16 @@
 
 📍 [Matrixread](https://matrixread.com/author/abhi/)
 
-My main programming blog, articls on JavaScript, CSS, Web Development and Leetcode Problem Solving 
+My main programming blog, articls on JavaScript, CSS, Web Development and Leetcode Problem Solving
 
-📍 [ Open Genus](https://iq.opengenus.org/author/abhiram/)
+📍 [Life of Ram](https://lifeofram.medium.com/)
+
+Personal blog on life, travel, habits and stuff
+
+📍 [Open Genus](https://iq.opengenus.org/author/abhiram/)
 
 Blog posts on Problem Solving, Algorithms and Data Structures
 
-📍 [ Tech Know Space](https://techknowspace.wordpress.com/author/abhiramreddy31/)
+📍 [Tech Know Space](https://techknowspace.wordpress.com/author/abhiramreddy31/)
 
 Articles on Tech, Processors and stuff
