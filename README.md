@@ -13,10 +13,6 @@
 
 My main programming blog, articls on JavaScript, CSS, Web Development and Leetcode Problem Solving
 
-📍 [Life of Ram](https://lifeofram.medium.com/)
-
-Personal blog on life, travel, habits and stuff
-
 📍 [Open Genus](https://iq.opengenus.org/author/abhiram/)
 
 Blog posts on Problem Solving, Algorithms and Data Structures
