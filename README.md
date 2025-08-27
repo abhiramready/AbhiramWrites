@@ -5,7 +5,7 @@
 ### 🚀 Consistent Writing
 
 - 📅 [#30DaysofCode](https://matrixread.com/30daysofcode/)
-- 📝 [One Article Every Day](https://github.com/abhiramready/Habit-System/blob/main/Challenges/OneArticleEveryday/README.md)
+- 📝 [One Article Every Day](https://github.com/abhiramready/Habit-System/tree/main/Habits/OneArticleEveryday)
 
 ### 👨‍🚀 My writings at
 
