@@ -1,11 +1,6 @@
 <img align="center" src="https://raw.githubusercontent.com/abhiramready/AbhiramWrites/master/Images/AbhiramWrites.png"/>
 
-### 🔥 Highest Streak: 33 Days
-
-### 🚀 Consistent Writing
-
-- 📅 [#30DaysofCode](https://matrixread.com/30daysofcode/)
-- 📝 [One Article Every Day](https://github.com/abhiramready/Habit-System/tree/main/Habits/OneArticleEveryday)
+### 🔥 Highest Streak: 60 Days
 
 ### 👨‍🚀 My writings at
 
