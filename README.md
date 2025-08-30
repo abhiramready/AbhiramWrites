@@ -2,8 +2,6 @@
 
 ### 🔥 Highest Streak: 60 Days
 
-### 👨‍🚀 My writings at
-
 📍 [Matrixread](https://matrixread.com/author/abhi/)
 
 My main programming blog, articles on JavaScript, CSS, Web Development, and Leetcode Problem Solving
